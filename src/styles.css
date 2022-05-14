@@ -1,0 +1,8 @@
+body {
+  background-image: url("https://pbs.twimg.com/media/EV-mNgCXQAIq398.jpg");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
